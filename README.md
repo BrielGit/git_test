@@ -1,3 +1,1 @@
-"Hello Odin!"
-"skibidi dop"
-"qwfqwfq"
+"New thing"
